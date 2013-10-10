@@ -174,7 +174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dda616b9fbc349dab80a4f0f6245882, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  urlBase: https://github.com/keijiro/unity-shader-ab-test/raw/master/AssetBundles/
+  urlBase: https://github.com/keijiro/unity-shader-ab-test/raw/master/AssetBundles/4.2/
 --- !u!1 &2119731315
 GameObject:
   m_ObjectHideFlags: 0
